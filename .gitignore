@@ -1,0 +1,6 @@
+*.pyc
+__pycace__
+venv
+db.sqlite3
+.DS_Store
+.idea
